@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\obj\Debug\Fafa10052018.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\bin\Fafa10052018.dll.config
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\bin\Fafa10052018.dll
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\bin\Fafa10052018.pdb
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\bin\Npgsql.dll
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\bin\Npgsql.pdb
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\bin\Npgsql.xml
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\obj\Debug\Fafa10052018.dll
+C:\Users\Aluno\Documents\A\Fafa10052018\Fafa10052018\obj\Debug\Fafa10052018.pdb

@@ -1,0 +1,20 @@
+.imagifull{
+	width: 100%;
+    height: 100%;
+
+	min-height: 100%;
+  	min-width: 1024px;
+}
+
+.limitaboton{
+    width:200px;
+}
+
+.fontebranca{
+    color: white;
+}
+
+.centro{
+    position: absolute;
+	left: 50%;
+}

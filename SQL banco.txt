@@ -1,0 +1,31 @@
+create table Perfil(
+IdPerfil serial,
+Nome varchar(50),
+Senha varchar(50),
+primary key(IdPerfil));
+
+create table tweet(
+idtweet serial,
+conteudo varchar(200),
+perfil int,
+quando timestamp,
+primary key(idtweet),
+foreign key(perfil) references perfil(idperfil)) 
+
+create table Seguidores(
+IdSeguidores serial,
+Perfil int,
+Seguidor int,
+primary key(IdSeguidores),
+foreign key(Perfil) references Perfil(IdPerfil),
+foreign key(Seguidor) references Perfil(IdPerfil));
+
+select * from Perfil;
+
+select Nome,Senha from Perfil where Nome='dodo' and senha = '1234';
+
+select nome,senha from Perfil where nome=@nome and senha=@senha
+
+insert into Perfil(Nome,Senha) values('dodo','1234');
+
+select * from tweet;
